@@ -1,5 +1,10 @@
-## Hi there! My name is Enzzo Chacon
+##Hi there! I'm Enzzo Chacon 👋
+I am a Computer Science Student at UNIP (Brazil) with a passion for software development and automation.
 
+🎓 Currently pursuing my degree in Computer Science.
 
-- 🔭 I’m currently on College
-- 🌱 I’m currently learning Python
+🐍 Learning Python for automation and backend development.
+
+☕ Experience with Java and Object-Oriented Programming (OOP).
+
+🇯🇵 Interested in Japanese culture and international opportunities.
