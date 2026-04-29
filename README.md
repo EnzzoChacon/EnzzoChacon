@@ -3,8 +3,4 @@ I am a Computer Science Student at UNIP (Brazil) with a passion for software dev
 
 🎓 Currently pursuing my degree in Computer Science.
 
-🐍 Learning Python for automation and backend development.
-
-☕ Experience with Java and Object-Oriented Programming (OOP).
-
-🇯🇵 Interested in Japanese culture and international opportunities.
+🐍 Learning Python and C# for automation and backend development.
